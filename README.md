@@ -1,7 +1,7 @@
 # medical-resource-blockchain
 
 # 의료데이타 코인
-####MedicalResourceBlockchain(MDB)
+MedicalResourceBlockchain(MDB)
 MDC는 의료데이타를 저장 및 제공하는 블럭체인 입니다.
 
 ## 문제점
